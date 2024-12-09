@@ -1,0 +1,28 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette
+{
+  "vim_mode": true,
+  "ui_font_size": 14,
+  "ui_font_family": "Fira Code",
+  "buffer_font_family": "Fira Code",
+  "buffer_font_size": 14,
+  "theme": {
+    "mode": "dark",
+    "light": "Ayu Light",
+    "dark": "Tokyo Night Storm"
+  },
+  "relative_line_numbers": true,
+  "preferred_line_length": 80,
+  "scrollbar": {
+    "show": "never"
+  },
+  "tab_bar": {
+    "show": false
+  }
+}
